@@ -1,4 +1,4 @@
-# CI-Assignment3-SOM-RL
+# CI-RL-SOM
 This repository is created to implement the basics of reinforcement learning by determining a policy via value iteration. The assignment also uses a specialized form of artificial neural networks (called Self Organizing Maps) for clustering and visualization.
 
 ## Question 1
